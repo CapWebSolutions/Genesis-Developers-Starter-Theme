@@ -13,8 +13,8 @@ textarea {
   width: 100%;
 }
 
-input:::focus,
-textarea:::focus {
+input::focus,
+textarea::focus {
   border: 1px solid $input--focus-border-color;
   outline: none;
 }
